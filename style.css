@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    margin: 1.5rem;
+}
+
+.main {
+    display: flex;
+    background-color: #e8eaf1;
+    border-radius: 2%;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+.box {
+    padding: 2rem;
+    margin: 2rem;
+    width: 22%;
+    border-radius: 5%;
+    background-color: white;
+}
+
+.foto {
+    border-radius: 50%;  
+    justify-content: center;
+    text-align: center;
+}
+
+h2,
+p,
+.odkazy {
+    text-align: center;
+}
+
+.section {
+    display: flex;
+}
+
+.odkazy {
+    justify-content: space-between;
+
